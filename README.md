@@ -1,2 +1,2 @@
-# michael-plasom-scott-makers-devops
+# DevOps
 My daily goals, evidence, and reflection
